@@ -12,21 +12,21 @@ Let's collect such use-cases and presentations, and spread Scala.js in Japan and
 日本でも Scala.js を使っているという話が少なくありません。<br>
 そうした事例やプレゼンテーションを集めて、Scala.js を日本や世界で広げていきましょう!!
 
-# Use-cases <br> 使用事例
+# Use-cases
 
 個人の趣味でもビジネスでも、どちらでもかまいません。<br>
 Can be a personal hobby or business.
 
 [Add your use-case/事例を追加](https://github.com/exoego/who-use-scalajs-in-japan/edit/master/README.md)
 
-What developed with Scala.js<br>Scala.js で開発したもの | Author/Company/Org<br>作者/会社/団体 | Description<br>説明
+What developed with Scala.js | Author/Company/Org | Description
 ---|---|---
 [scala-js-ts-importer](https://www.exoego.net/scala-js-ts-importer/) | [exoego](https://twitter.com/exoego) | TypeScript's type definition importer for Scala.js, that can be used on Web browser.<br> TypeScript の型定義を Scala.js 用に変換します。Web ブラウザですぐ使えます。
 
-# Presentations in Japanese <br> プレゼンテーション
+# Presentations in Japanese
 
 [Add your presentation/プレゼンテーションを追加](https://github.com/exoego/who-use-scalajs-in-japan/edit/master/README.md)
 
-Slide<br>スライド | Author<br>作者
+Slide | Author
 ---|---
 [Serverless in Scala on Node.js](https://speakerdeck.com/exoego/serverless-in-scala-on-node-dot-js) | [exoego](https://twitter.com/exoego) 
