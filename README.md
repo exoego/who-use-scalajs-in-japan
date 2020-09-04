@@ -30,3 +30,4 @@ What developed with Scala.js | Author/Company/Org | Description
 Slide | Author
 ---|---
 [Serverless in Scala on Node.js](https://speakerdeck.com/exoego/serverless-in-scala-on-node-dot-js) | [exoego](https://twitter.com/exoego) 
+[How to build a Scala.js React web application in Slinky / Slinky で Scala.js 製 React Webアプリケーションを つくったはなし](https://speakerdeck.com/nomadblacky/how-to-build-a-scala-dot-js-react-web-application-in-slinky) | [nomadblacky](https://twitter.com/nomadblacky) 
